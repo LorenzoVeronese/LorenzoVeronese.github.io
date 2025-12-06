@@ -47,10 +47,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false #true
+socials_in_search: false #true
+posts_in_search: false #true
+bib_search: false #true
 
 # Dimensions
 max_width: 930px
