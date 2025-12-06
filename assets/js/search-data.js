@@ -473,6 +473,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-follow-the-light",
+          title: 'Follow the Light',
+          description: "An interactive CNC plotter for inclusive writing and play",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/FollowTheLight/";
             },},{id: "projects-neural-decoding",
           title: 'Neural Decoding',
           description: "Visual stimulus reconstruction from fMRI signal using generative AI",
