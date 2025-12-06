@@ -473,6 +473,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-neural-decoding",
+          title: 'Neural Decoding',
+          description: "Visual stimulus reconstruction from fMRI signal using generative AI",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NeuralDecoding/";
+            },},{id: "projects-stain-transfer",
+          title: 'Stain Transfer',
+          description: "Histopathological images harmonizaion through CycleGAN",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/StainTransfer/";
             },},{
         id: 'social-cv',
         title: 'CV',
