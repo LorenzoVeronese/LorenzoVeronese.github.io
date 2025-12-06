@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student at <a href="https://www.polimi.it/">Politecnico di Milano</a></a>. lorenzo.veronese@polimi.it
+subtitle: <a href='#'>PhD Student at Politecnico di Milano</a>. lorenzo.veronese@polimi.it
 
 profile:
   align: right
@@ -21,19 +21,18 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+#latest_posts:
+#  enabled: true
+#  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#  limit: 3 # leave blank to include all the blog posts
 ---
 
 I specialize in `Computational Cognitive Neuroscience` and `Neuro-AI`. My research bridges the gap between biological and artificial intelligence, using fMRI data to ground AI models in human cognition.
 
 My work focuses on two core areas:
 * `Cognitive Planning`: creating theory-driven, system-level AI models informed by neuroscience and psychology to emulate complex decision-making.
-* `Visual Perception`: developing generative decoding architectures that reconstruct visual stimuli from brain activity.
+* `Visual Perception`: developing generative decoding architectures that reconstruct visual stimuli from brain activity. 
 
-Published work includes enhancements to visual neural decoding pipelines, demonstrating superior performance and efficiency (over 85\%) for real-time applications.
 
 {% comment %}
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
