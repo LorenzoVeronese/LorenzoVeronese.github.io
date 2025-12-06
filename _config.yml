@@ -86,10 +86,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Lorenzo Veronese # blog_name will be displayed in your blog page
+blog_description: Computational Cognitive Neuroscience and Neuro-AI
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+
+email: lorenzo.veronese@polimi.it
+github_username: LorenzoVeronese
+linkedin_username: lorenzo-v-veronese
 
 # Pagination
 pagination:
