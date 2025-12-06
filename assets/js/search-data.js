@@ -419,16 +419,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-graduated-in-computer-science-engineering-at-politecnico-di-milano-specializing-in-ai",
+          title: '🎓 Graduated in Computer Science Engineering at Politecnico di Milano, specializing in AI....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-my-phd-in-bioengineering-at-politecnico-di-milano",
+          title: '🚀 Started my PhD in Bioengineering at Politecnico di Milano.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-new-paper-out-optimized-ai-based-neural-decoding-from-bold-fmri-signal-for-analyzing-visual-and-semantic-rois-in-the-human-visual-system-published-in-journal-of-neural-engineering",
+          title: '📄 New paper out! Optimized AI-based neural decoding from BOLD fMRI signal for...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
