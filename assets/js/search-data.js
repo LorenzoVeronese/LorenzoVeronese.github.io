@@ -47,6 +47,9 @@ ninja.data = [{
           section: "News",},{id: "news-new-paper-out-optimized-ai-based-neural-decoding-from-bold-fmri-signal-for-analyzing-visual-and-semantic-rois-in-the-human-visual-system-published-in-journal-of-neural-engineering",
           title: '📄 New paper out! Optimized AI-based neural decoding from BOLD fMRI signal for...',
           description: "",
+          section: "News",},{id: "news-presenting-my-work-evaluating-semantic-brain-regions-contribution-to-visual-neural-decoding-performance-on-different-classes-of-stimuli-at-cibb2025-in-the-special-session-ai-in-medical-imaging-radiomics-and-explainable-deep-learning",
+          title: '🎤 Presenting my work, “Evaluating Semantic Brain Regions Contribution to Visual Neural Decoding...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -92,9 +95,14 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-do-you-understand-how-i-feel",
+          title: 'Do you understand how I feel?',
+          description: "Verifying empathy in therapy chatbots",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/DoYouUnderstandHowIFeel/";
             },},{id: "projects-follow-the-light",
           title: 'Follow the Light',
-          description: "An interactive CNC plotter for inclusive writing and play",
+          description: "A interactive CNC plotter for inclusive writing and play",
           section: "Projects",handler: () => {
               window.location.href = "/projects/FollowTheLight/";
             },},{id: "projects-neural-decoding",
@@ -104,7 +112,7 @@ ninja.data = [{
               window.location.href = "/projects/NeuralDecoding/";
             },},{id: "projects-stain-transfer",
           title: 'Stain Transfer',
-          description: "Histopathological images harmonizaion through CycleGAN",
+          description: "Histopathological images harmonization through CycleGAN",
           section: "Projects",handler: () => {
               window.location.href = "/projects/StainTransfer/";
             },},{
