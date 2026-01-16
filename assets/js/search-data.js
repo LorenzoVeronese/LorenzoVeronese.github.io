@@ -95,6 +95,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-computational-cognitive-neuroscience",
+          title: 'Computational Cognitive Neuroscience',
+          description: "Neuro-inspired AI for modelling planning tasks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ComputationalCognitiveNeuroscience/";
             },},{id: "projects-do-you-understand-how-i-feel",
           title: 'Do you understand how I feel?',
           description: "Verifying empathy in therapy chatbots",
