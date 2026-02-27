@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD Student at Politecnico di Milano</a>. lorenzo.veronese@polimi.it
+subtitle: <a href='#'>PhD Candidate at Politecnico di Milano</a>. lorenzo.veronese@polimi.it
 
 profile:
   align: right
