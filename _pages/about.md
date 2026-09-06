@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='#https://www.polimi.it/'>Politecnico di Milano</a> · Visiting PhD Student at <a href='#https://fietelab.mit.edu/'>MIT</a>.
+subtitle: PhD Candidate at <a href='https://www.polimi.it/'>Politecnico di Milano</a> · Visiting PhD Student at <a href='https://fietelab.mit.edu/'>MIT</a>.
 
 profile:
   align: right
